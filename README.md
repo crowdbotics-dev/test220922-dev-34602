@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-activity-feed](screens/activity-feed)
 - [screen-about-the-app](screens/about-the-app)
 - [react-native-app-menu](modules/app-menu)
+- [screen-add-phone-number](screens/add-phone-number)
 
 # Getting started: Frontend
 

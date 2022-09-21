@@ -1242,10 +1242,10 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/account-settings@file:./screens/account-settings/":
+"@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
-"@screens/activity-feed@file:./screens/activity-feed":
+"@screens/add-phone-number@file:./screens/add-phone-number/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
