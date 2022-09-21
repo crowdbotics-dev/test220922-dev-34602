@@ -1248,7 +1248,10 @@
 "@screens/add-phone-number@file:./screens/add-phone-number":
   version "1.0.0"
 
-"@screens/add-review@file:./screens/add-review/":
+"@screens/add-phone-number@file:./screens/add-phone-number/":
+  version "1.0.0"
+
+"@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
 "@screens/advance-search@file:./screens/advance-search":
