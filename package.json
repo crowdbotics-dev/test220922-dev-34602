@@ -21,6 +21,7 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/activity-feed": "file:./screens/activity-feed/",
     "@screens/add-phone-number": "file:./screens/add-phone-number/",
+    "@screens/advance-search": "file:./screens/advance-search/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

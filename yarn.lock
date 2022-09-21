@@ -1245,7 +1245,10 @@
 "@screens/activity-feed@file:./screens/activity-feed":
   version "1.0.0"
 
-"@screens/add-phone-number@file:./screens/add-phone-number/":
+"@screens/add-phone-number@file:./screens/add-phone-number":
+  version "1.0.0"
+
+"@screens/advance-search@file:./screens/advance-search/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
